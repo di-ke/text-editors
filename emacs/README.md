@@ -12,11 +12,13 @@ real-time display editor".
  - For Windows
    - Download
    Use the link to download the latest version of GNU Emacs for windows,
-   [ftp.gnu.org/gnu/emacs/windows/](https://ftp.gnu.org/gnu/emacs/windows/).
+   <a href="<a href="https://www.markdownguide.org" target="_blank">
+      ftp.gnu.org/gnu/emacs/windows/
+   </a>
 
    - Install
    - Configure
 
  - MacOS
- 
+
  - Linux
