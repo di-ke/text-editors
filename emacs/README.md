@@ -22,3 +22,13 @@ real-time display editor".
  - MacOS
 
  - Linux
+ Depending on your Linux distribution and personal preferences the installation
+ may differ a little.
+
+ `bash
+ $ sudo apt install emacs
+ `
+ The link
+ <a href="https://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux">
+    here
+ </a> contains the installation process for most Linux distros.
