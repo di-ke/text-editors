@@ -25,9 +25,10 @@ real-time display editor".
  Depending on your Linux distribution and personal preferences the installation
  may differ a little.
 
- `bash
+ `shell
  $ sudo apt install emacs
  `
+
  The link
  <a href="https://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux">
     here
