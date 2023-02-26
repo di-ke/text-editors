@@ -48,3 +48,8 @@ so `~/.emacs.d/init.el`.
 Emacs has its own customization language call emacs lisp or elisp
 thus you would need to have a little knowledge about this.
 Elisp files end with the extension .el.
+
+Basic emacs configuation
+
+<script src="https://gist.github.com/di-ke/38e879efe6e941871ff2cf4d1dc3c0df.js">
+</script>
