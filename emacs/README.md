@@ -17,7 +17,6 @@ real-time display editor".
        </a>
 
    - Install
-   - Configure
 
  - MacOS
 
@@ -35,3 +34,17 @@ real-time display editor".
  <a href="https://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux">
     here
  </a> contains the installation process for most Linux distros.
+
+### Configuring Emacs
+
+The initial screen you see after launching Emacs can be a little daunting,
+you don't know where to start. But per the definitn of emacs,
+it is a very flexible text editor that can be customized to suite you.
+
+In order to customize your emacs, you need to have an init.el file in
+the `~/.emacs.d` directory such that the file path is like
+so `~/.emacs.d/init.el`.
+
+Emacs has its own customization language call emacs lisp or elisp
+thus you would need to have a little knowledge about this.
+Elisp files end with the extension .el.
